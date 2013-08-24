@@ -1,5 +1,5 @@
-learnpythonthehardway
-=====================
+Learn Python the hard way: exercises
+====================================
 
 The Learn Python the hard way book excercises.
 
